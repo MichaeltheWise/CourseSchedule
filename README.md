@@ -1,2 +1,2 @@
 # CourseSchedule
-Leetcode Question Unique Implementation: https://leetcode.com/problems/course-schedule/
+Leetcode Question Kosaraju Algorithm Python 3 Implementation: https://leetcode.com/problems/course-schedule/
